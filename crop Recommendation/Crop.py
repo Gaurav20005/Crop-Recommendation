@@ -8,7 +8,7 @@ import sklearn
 background_css = r'''
     <style>
         body {
-            background-image: url("file:///C:/Users/Hp/Desktop/Data Science/mystreamlit project/crop Recommendation/your_image_filename.jpg");
+            background-image: url("https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892233/EducationHub/photos/crops-growing-in-thailand.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
